@@ -1,0 +1,9 @@
+{
+  "name": "Communication progressive du français — Perfectionnement",
+  "short_name": "CP Perfectionnement",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f2",
+  "theme_color": "#a08f74",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png" }]
+}
